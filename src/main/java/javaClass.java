@@ -10,7 +10,9 @@
  */
 public class javaClass {
     public static void main(String[] args) {
-        System.out.println("javaClass.main()");
+        System.out.println("Helo Java");
+        double height = 10;
+        System.out.println(height);
     }
     
 }
